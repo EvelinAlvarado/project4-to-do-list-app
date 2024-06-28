@@ -21,11 +21,8 @@ This project is a simple To-Do List app developed to enhance skills in React. Th
 ## Screenshots
 
 <div align="center" >
-  <img src="public/MacBook Pro-1716978240990.jpeg" width="80%" />
-  <br/><br/>
-  <img src="public/iPad-1716978330293.jpeg" width="40%" /> 
-   <br/><br/>
-  <img src="public/iPhone 12 Pro-1716978317349.jpeg" width="20%" /> 
+  <img src="public/MacBook Pro-1719568539812.jpeg" width="80%" />
+ 
 </div>
 
 ## Additional Information
